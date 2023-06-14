@@ -52,3 +52,38 @@ grid-template-columns: 1fr 1fr;
   border-radius: 30px;
   margin-left: 100px;
 }
+.tipografia{
+  text-align: center;
+}
+.rose {
+  width: 100%;
+ margin-left: 0px;
+}
+.p1{
+  width:350px;
+  
+}
+.li{
+
+  font-size: 18px;
+}
+.vinho{
+  display:  grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+
+}
+.margin{
+  margin-left: 30px;
+  border: 1px solid maroon;
+  padding: 10px;
+  background-color: maroon;
+  color: white;
+  border-radius: 20px;
+  margin-right: 40px;
+}
+
+.li{
+  padding-bottom: 20px;
+  padding-left: 10;
+  padding-right: 10px;
+}
