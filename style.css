@@ -54,11 +54,16 @@ grid-template-columns: 1fr 1fr;
 }
 .tipografia{
   text-align: center;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 50px;
 }
 .rose {
   width: 100%;
  margin-left: 0px;
+ border-radius: 10px;
 }
+
 .p1{
   width:350px;
   
@@ -80,10 +85,23 @@ grid-template-columns: 1fr 1fr;
   color: white;
   border-radius: 20px;
   margin-right: 40px;
+ height: 780px;
 }
 
 .li{
   padding-bottom: 20px;
   padding-left: 10;
   padding-right: 10px;
+}
+.tinto{
+  width: 100%;
+  height: 25%;
+  border-radius: 10px;
+}
+.corer{
+  background-color: rgb(53, 4, 4);
+}
+.branco{
+  width: 100%;
+  height: 25%;
 }
