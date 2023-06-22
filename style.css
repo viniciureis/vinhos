@@ -114,11 +114,34 @@ grid-template-columns: 1fr 1fr;
   margin-left: 30px;
 
 }
-.border{
-padding-left: 20px;
+.border1{
+padding: 10px;
+border: 1px solid maroon;
+margin-bottom: 20px;
 }
 .im2{
   height: 500px;
   padding-left: 100px;
   width: 70%;
+}
+.lis{
+  background: url(img/marcador.png) no-repeat left top;
+  color: whitesmoke;
+  padding-left: 40px;
+  list-style: none;
+  padding-bottom: 20px;
+  background-size: 30px;
+ 
+}
+ul{
+list-style: none;
+}
+.mgt{
+  margin-bottom: -17px;
+}
+.beneficios{
+  color: whitesmoke;
+  padding-left: 80px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
