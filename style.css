@@ -145,3 +145,14 @@ list-style: none;
   padding-top: 20px;
   padding-bottom: 20px;
 }
+
+@media (min-width:300px) and (max-width: 800px) {
+  .vinho2{
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .vinho{
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}
